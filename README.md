@@ -3,7 +3,7 @@ Publish a static version of your dynamic website
 
 ## Description
 
-### Send an url.
-### Process.
-### Receive a zip file.
-### Push files to locations
+### 1 - Send an url.
+### 2 - Process.
+### 3 - Receive a zip file.
+### 4 - Push files to locations
